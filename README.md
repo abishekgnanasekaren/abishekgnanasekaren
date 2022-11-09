@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tableau and Power BI
 - 💞️ I’m looking to collaborate with the data scientists and the legends works on Big Data
 - 📫 reach me at abishekgnanasekaren@gmail.com
-- LINKEDIN:Abishek G
+- LINKEDIN:https://www.linkedin.com/in/abishek-g-0b03241aa/
 
 <!---
 abishekgnanasekaren/abishekgnanasekaren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
